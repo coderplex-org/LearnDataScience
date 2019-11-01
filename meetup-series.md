@@ -1,4 +1,4 @@
-# This is our recommended Data Science curriculum
+# This is the structure of the meetup series 
 |Meetup  | Title      | Description|
 |--------|------------|------------|
 |1| **Basics of linear Algebra and Python.** |We will be explaining the basics of python and algebra, that are sufficient for the coming 5 meetups, and give them assignments to work on.|

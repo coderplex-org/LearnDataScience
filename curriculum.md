@@ -1,1 +1,1 @@
-# This is our recommended Data Science curriculum
+## This is the curriculum for learning Data Science

@@ -21,4 +21,4 @@
 -   [Machine Learning Explainability](https://www.kaggle.com/learn/machine-learning-explainability)
 -   [Solve more challenges](https://analyticsindiamag.com/popular-data-science-projects-for-aspiring-data-scientists/)
 -   Build a project ([Example Datasets](https://www.kaggle.com/datasets))
--   Participate in Data Science competitions on [Kaggle](https://www.kaggle.com/) and [DrivenData][https://www.drivendata.org] etc
+-   Participate in Data Science competitions on [Kaggle](https://www.kaggle.com/) and [DrivenData](https://www.drivendata.org) etc

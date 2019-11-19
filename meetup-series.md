@@ -1,4 +1,4 @@
-# This is the structure of the meetup series 
+# Offline Meetup Schedule
 |Meetup  | Title      | Date | Description|
 |--------|------------|------------|------------|
 |1| **Intro to Data Science** | 23rd November, 2019 | Applications of Data Science, Tools and Flow |

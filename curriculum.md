@@ -1,4 +1,8 @@
-## This is the curriculum for learning Data Science
+### Resources 
+-   [Awesome Data Science](https://github.com/academic/awesome-datascience)
+
+
+## Learn Data Science Curricuum
 
 -   [Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
 -   [Single Variable Calculus](https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1)

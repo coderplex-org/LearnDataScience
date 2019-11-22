@@ -1,3 +1,5 @@
+#### Join our Chatroom 💬 : https://discordapp.com/invite/72xy4bJ
+
 ### Resources 
 -   [Awesome Data Science](https://github.com/academic/awesome-datascience)
 
